@@ -1,5 +1,5 @@
 # Project-2
-Bank system created for a class project.
+Bank system created for a class project written in c++
 
 Has database to hold account info (account number, name, balance, and PIN)
 
